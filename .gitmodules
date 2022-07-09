@@ -1,0 +1,3 @@
+[submodule "mofneko"]
+	path = mofneko
+	url = git@github.com:mofneko/mofneko.git

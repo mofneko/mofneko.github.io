@@ -1,6 +1,1 @@
----
-layout: page
-title: About
----
-
-Something about me.
+mofneko/README.md
